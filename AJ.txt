@@ -1,2 +1,1 @@
-python AJL 05
-fff
+CITY = NONE
